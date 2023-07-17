@@ -1,4 +1,4 @@
-# Getting started with javascrit-timeApp
+# Getting started with javascript-timeApp
  This is a web page which shows IST and updated time with javascript comands.
  # Bootstrap 
  The page is created with css framework  bootstrap. 
