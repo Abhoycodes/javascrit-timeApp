@@ -17,7 +17,7 @@ See the section about <a href="https://www.w3schools.com/jsref/met_win_setinterv
 |**Name** |*Details* |Comments|
 |---------|----------|--------|
 |**Time App**  |*Shows IST*|`html`,`css`,`Javascript`|
-|[View Deployment()] |Date:01-07-23| more projects|
+|[View Deployment](https://abhoycodes.github.io/javascrit-timeApp/)|Date:01-07-23| more projects|
 
 
 
